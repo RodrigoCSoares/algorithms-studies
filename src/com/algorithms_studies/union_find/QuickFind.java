@@ -1,3 +1,5 @@
+package com.algorithms_studies.union_find;
+
 /**
  * Quick-find's downside is that the union operation is too expensive.
  * The algorithm takes N² array accesses to process an union operation.
