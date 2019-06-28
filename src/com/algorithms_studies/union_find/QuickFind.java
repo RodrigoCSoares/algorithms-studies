@@ -24,7 +24,7 @@ public class QuickFind {
      * @param q second object
      * @return true if the two objects are connected
      */
-    public boolean connected(int p, int q) {
+    public boolean isConnected(int p, int q) {
         return id[p] == id[q];
     }
 
